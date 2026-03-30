@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.codelearn.ide.composeApp-debug-36:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.codelearn.ide.composeApp-androidMain-38:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.codelearn.ide.composeApp-debug-36:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.codelearn.ide.composeApp-androidMain-38:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.codelearn.ide.composeApp-debug-36:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.codelearn.ide.composeApp-androidMain-38:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.codelearn.ide.composeApp-debug-36:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.codelearn.ide.composeApp-androidMain-38:/drawable/ic_launcher_foreground.xml"
+    }
+]

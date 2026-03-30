@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "237632370018",
+    "project_id": "codelearnide",
+    "storage_bucket": "codelearnide.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237632370018:android:2de399e335c80fe2fde83b",
+        "android_client_info": {
+          "package_name": "com.codelearn.ide"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK1e_Q4Ee-CDdMIejs0bPIwu3gNKENgDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

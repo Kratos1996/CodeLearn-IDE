@@ -1,0 +1,9 @@
+com.codelearn.ide.composeApp-pngs-0 /Users/bcsn-ishants/Desktop/CodeLearnIDE/composeApp/build/generated/res/pngs/debug
+com.codelearn.ide.composeApp-updated_navigation_xml-1 /Users/bcsn-ishants/Desktop/CodeLearnIDE/composeApp/build/generated/updated_navigation_xml/debug
+com.codelearn.ide.composeApp-packageDebugResources-2 /Users/bcsn-ishants/Desktop/CodeLearnIDE/composeApp/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.codelearn.ide.composeApp-packageDebugResources-3 /Users/bcsn-ishants/Desktop/CodeLearnIDE/composeApp/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.codelearn.ide.composeApp-debug-4 /Users/bcsn-ishants/Desktop/CodeLearnIDE/composeApp/build/intermediates/merged_res/debug/mergeDebugResources
+com.codelearn.ide.composeApp-androidDebug-5 /Users/bcsn-ishants/Desktop/CodeLearnIDE/composeApp/src/androidDebug/res
+com.codelearn.ide.composeApp-androidMain-6 /Users/bcsn-ishants/Desktop/CodeLearnIDE/composeApp/src/androidMain/res
+com.codelearn.ide.composeApp-debug-7 /Users/bcsn-ishants/Desktop/CodeLearnIDE/composeApp/src/debug/res
+com.codelearn.ide.composeApp-main-8 /Users/bcsn-ishants/Desktop/CodeLearnIDE/composeApp/src/main/res
