@@ -110,25 +110,7 @@ Supports
 
 ---
 
-# 🖼 Screenshots
 
-> Add screenshots here
-
-```
-/screenshots
-
-Home.png
-
-Editor.png
-
-Projects.png
-
-Learning.png
-
-Settings.png
-```
-
----
 
 # 🏗 Tech Stack
 
