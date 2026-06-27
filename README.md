@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="sample/banner.png" />
+</p>
+
 <div align="center">
 
 # 💻 CodeLearn IDE
@@ -283,6 +287,10 @@ https://www.linkedin.com/in/androiddeveloperishant
 Licensed under the MIT License.
 
 ---
+
+<p align="center">
+  <img src="sample/banner.png" />
+</p>
 
 <div align="center">
 
